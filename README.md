@@ -7,12 +7,12 @@ The main objective of this project is to design and implement a robust database 
 ## Database Structure
 The database consists of six main tables:
 
-Users: Stores user information like user_id, name, and email.
-Libraries: Details about each library including library_id and location.
-Books: Book information such as title, author, and quantity.
-Categories: Classifications of books by genre or type.
-Loans: Tracks borrowing transactions, including loan_date and return_date.
-Holds: Manages book reservations with hold_date and queue positions.
+- Users: Stores user information like user_id, name, and email.
+- Libraries: Details about each library including library_id and location.
+- Books: Book information such as title, author, and quantity.
+- Categories: Classifications of books by genre or type.
+- Loans: Tracks borrowing transactions, including loan_date and return_date.
+- Holds: Manages book reservations with hold_date and queue positions.
 
 ## Key Features
 Efficiently manages multi-library collections.
